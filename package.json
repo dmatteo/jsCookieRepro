@@ -8,7 +8,7 @@
     "babel-preset-es2015": "6.14.0",
     "babel-register": "6.14.0",
     "js-cookie": "2.1.2",
-    "jsdomify": "3.0.0",
+    "jsdomify": "2.1.0",
     "mocha": "3.0.2",
     "unexpected": "10.16.0"
   },
